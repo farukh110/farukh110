@@ -128,7 +128,7 @@ Let’s build something amazing together!
 
 ---
 
-## 🐍 Contributions Snake Animation
+## 🐍 Contributions
 
 <!-- Snake Game Repo View -->
 <div align="center">
